@@ -14,20 +14,15 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 ## 🌐Socials
 
 [<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
-[<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg"  align="left" />][stackoverflow]
-[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNPu5Y3h8WMB3i5gt6BM0pjQjkCniuvVUHL6Tg2OS_ZnxY_So0c5oTBcgrjf9B59krOk&usqp=CAU"  align="left" />][codersclub]
 [<img  width="40" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png"  align="left" />][patika]
-[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKJ-RLNVI9sCwf6Nlp1WpsnpNcHC6vCiCNg&usqp=CAU"  align="left" />][hackerrank]
 [<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left" />][instagram]
-[<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg"  align="left" />][facebook]
+[<img  width="40" src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M"  align="left" />][indeed]
 
-[patika]: https://app.patika.dev/clgnmmr
-[linkedin]: https://www.linkedin.com/in/kadirtepecik/
-[codersclub]: https://codersclub.co/dev/clgnmmr
-[hackerrank]: https://www.hackerrank.com/kadir_tepecik191
-[instagram]: https://www.instagram.com/clgnmmr/
-[facebook]: https://www.facebook.com/kadir.tepecik
-[stackoverflow]: https://stackoverflow.com/users/18456843/kadir-tepecik
+[patika]: https://app.patika.dev/nbh
+[linkedin]: https://www.linkedin.com/in/nur-betul-han/
+[indeed]: https://my.indeed.com/resume?hl=tr&co=TR&from=gnav-homepage&_ga=2.13112242.401032304.1655155675-1900267910.1655038321
+[instagram]: 
+
 <br/>
 <br/>
 <hr/> 
@@ -60,11 +55,11 @@ API ve API Testi
 
 
 
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70
-[html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
-[git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
-[css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
-[api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
+[Yazılım]:
+[html]:
+[git]:
+[css]:
+[api]:
 <br/>
 <br/>
 <hr/>
