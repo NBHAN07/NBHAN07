@@ -21,7 +21,7 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 [patika]: https://app.patika.dev/nbh
 [linkedin]: https://www.linkedin.com/in/nur-betul-han/
 [indeed]: https://my.indeed.com/resume?hl=tr&co=TR&from=gnav-homepage&_ga=2.13112242.401032304.1655155675-1900267910.1655038321
-[instagram]: 
+[instagram]: https://www.instagram.com/nurbetulhan/
 
 <br/>
 <br/>
