@@ -30,8 +30,8 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 ## 📜Certificates
 
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
-Yazılım Test otomasyonu
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
+DevOps Çözümleri (Jenkins)
 <br/>
 <br/>
 
@@ -55,11 +55,11 @@ API ve API Testi
 
 
 
-[Yazılım]:
+[Jenkins]: https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGBOXPo
+[api]: https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=qKrhmgP9b4
 [html]:
 [git]:
 [css]:
-[api]:
 <br/>
 <br/>
 <hr/>
